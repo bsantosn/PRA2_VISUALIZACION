@@ -1,4 +1,4 @@
-# PRA3_VISUALIZACION
+# Creación de la visualización y entrega del proyecto
 
 Nombre: Brais Santos Negreira
 
