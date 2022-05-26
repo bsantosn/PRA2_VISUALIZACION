@@ -2,7 +2,7 @@
 
 Nombre: Brais Santos Negreira
 
-usuario:bsantosn
+usuario: bsantosn
 
 Información:
 
